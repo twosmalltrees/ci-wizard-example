@@ -6,3 +6,9 @@ describe('A passing test', function () {
     expect(true).to.be.true;
   });
 });
+
+describe('A second passing test', function () {
+  it('should also pass', function () {
+    expect(true).to.be.true;
+  });
+});
