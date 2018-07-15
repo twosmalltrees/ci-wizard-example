@@ -1,8 +1,8 @@
 const chai = require('chai');
 const expect = chai.expect;
 
-describe('A passing test', function () {
-  it('should pass', function () {
-    expect(true).to.be.true;
+describe('A failing test', function () {
+  it('should fail', function () {
+    expect(true).to.be.false;
   });
 });
