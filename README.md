@@ -1,0 +1,1 @@
+### A demo of the funcitonality of [CI Wizard](https://github.com/twosmalltrees/ci-wizard)
